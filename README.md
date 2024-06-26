@@ -2,7 +2,7 @@
 This repository contains a Flask web application that allows users to explore and visualize car price data. Users can search for specific cars, view various graphs, and generate dynamic plots based on their search criteria.
 
 
-##Features
+## Features
 Interactive Dashboard: Users can search and filter car price data.
 Dynamic Graphs: Visualizations update based on user input and search criteria.
 Data Insights: Provides insights into car prices with various graphs such as histograms, scatter plots, and bar charts.
