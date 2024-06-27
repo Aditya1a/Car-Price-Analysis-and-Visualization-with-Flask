@@ -41,4 +41,9 @@ Enter car brand, model, year, and other criteria to filter the dataset.
 Generate graphs that reflect the filtered data dynamically.
 
 
+## Screenshots
+
+![screenshot](screenshot/head.png)
+
+
 
