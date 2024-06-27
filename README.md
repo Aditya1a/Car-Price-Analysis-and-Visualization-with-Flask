@@ -47,3 +47,11 @@ Generate graphs that reflect the filtered data dynamically.
 
 
 
+![screenshot](screenshot/analysis.png)
+
+
+
+![screenshot](screenshot/search.png)
+
+
+
